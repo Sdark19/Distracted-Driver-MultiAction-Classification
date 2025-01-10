@@ -97,3 +97,6 @@ Distracted-Driver-Classification/
 * Modify paths in the notebook if your folder structure differs or paths need adjustment.
 * For better performance, ensure you have a GPU-enabled environment with TensorFlow.
 
+### License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+You are free to use, share, and modify this code **for non-commercial purposes only**. Proper attribution is required.
