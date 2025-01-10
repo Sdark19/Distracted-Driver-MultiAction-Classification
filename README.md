@@ -18,7 +18,7 @@ This project classifies driver actions into 10 distinct classes using a deep lea
 * Test Folder: Images in a single folder (test/).
 * Metadata: A CSV file (driver_imgs_list.csv) linking subjects, classes, and image names.
 
-### Download Links
+### Download Link
 The dataset can be downloaded from the following shared drive link:
 https://drive.google.com/file/d/1eSwewRiT5wjOZruI0JflutlSEA7GLwN1/view?usp=sharing
 
