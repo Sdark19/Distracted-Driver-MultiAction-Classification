@@ -33,12 +33,12 @@ Install dependencies using:
 pip install -r requirements.txt  
 ```
 ### Required Libraries
-numpy
-pandas
-matplotlib
-tensorflow
-opencv-python
-scikit-learn
+- **numpy**
+- **pandas**
+- **matplotlib**
+- **tensorflow**
+- **opencv-python**
+- **scikit-learn**
 
 ### How to Run
 #### Step 1: Clone the Repository
