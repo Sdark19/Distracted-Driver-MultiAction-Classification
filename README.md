@@ -41,12 +41,12 @@ opencv-python
 scikit-learn
 
 ### How to Run
-# Step 1: Clone the Repository
+#### Step 1: Clone the Repository
 ``` bash
 git clone https://github.com/yourusername/Distracted-Driver-Classification.git  
 cd Distracted-Driver-Classification  
 ```
-# Step 2: Prepare the Dataset
+#### Step 2: Prepare the Dataset
 Place the dataset folders and metadata file in the Input/ directory:
 ```bash
 Distracted-Driver-Classification/
@@ -55,14 +55,14 @@ Distracted-Driver-Classification/
     ├── test/                # Test images
     └── driver_imgs_list.csv # Metadata file
 ```
-# Step 3: Install Dependencies
+#### Step 3: Install Dependencies
 ```bash
 pip install -r requirements.txt  
 ```
-# Step 4: Run the Notebook
+#### Step 4: Run the Notebook
 Open and execute the distracted_driver.ipynb file using Jupyter Notebook or vs code:
 
-# Step 5: Outputs
+#### Step 5: Outputs
 After running the notebook, predictions will be saved in the Output/ directory:
 ``` bash
 Distracted-Driver-Classification/
