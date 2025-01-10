@@ -1,17 +1,17 @@
-#### Distracted Driver Classification
+# Distracted Driver Classification
 This project classifies driver actions into 10 distinct classes using a deep learning model based on MobileNetV2.
 
 ### Classes
-c0: Safe driving
-c1: Texting - right
-c2: Talking on the phone - right
-c3: Texting - left
-c4: Talking on the phone - left
-c5: Operating the radio
-c6: Drinking
-c7: Reaching behind
-c8: Hair and makeup
-c9: Talking to passenger
+- **c0**: Safe driving  
+- **c1**: Texting - right  
+- **c2**: Talking on the phone - right  
+- **c3**: Texting - left  
+- **c4**: Talking on the phone - left  
+- **c5**: Operating the radio  
+- **c6**: Drinking  
+- **c7**: Reaching behind  
+- **c8**: Hair and makeup  
+- **c9**: Talking to passenger
 
 ### Dataset
 * Train Folder: Images divided into subfolders based on class (train/c0, train/c1, ...).
